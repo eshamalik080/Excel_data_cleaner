@@ -3,11 +3,11 @@
 This project automates cleans data in Excel and generate reports using Python.
 
 ## Features
-  Removes duplicate rows
-  Handles missing values
-  Generates summary reports
-  Creates sales charts
-  Outputs clean Excel files automatically
+1. Removes duplicate rows
+2. Handles missing values
+3. Generates summary reports
+4. Creates sales charts
+5. Outputs clean Excel files automatically
 
 ## Tools Used
 - Python
