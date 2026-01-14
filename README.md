@@ -17,5 +17,5 @@ This project automates cleans data in Excel and generate reports using Python.
 
 ## How to Run
 1. Place your Excel file as `input_data.xlsx`
-2. Run: `python excel_cleaner.py`
+2. Run: `python cleaner.py`
 3. Output will be saved in the `output` folder
